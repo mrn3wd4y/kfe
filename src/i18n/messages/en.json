@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "title": "SOLTERRA — Vietnam Green Coffee Supplier Rooted in Gia Lai",
+    "description": "Solterra is a Vietnam green coffee supplier rooted in Gia Lai and Tay Nguyen, supplying Robusta, Arabica, specialty lots and commercial grade green coffee for export buyers.",
+    "ogAlt": "SOLTERRA Vietnam green coffee supplier"
+  },
+
+  "nav": {
+    "products": "Products",
+    "process": "Supply Process",
+    "terms": "Trade Terms",
+    "sample": "Request Sample",
+    "contact": "Contact",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu"
+  },
+
+  "hero": {
+    "eyebrow": "Gia Lai Origin · Tay Nguyen Supply Base",
+    "title": "Robusta Strength From Vietnam's Tay Nguyen Highlands",
+    "subtitle": "Gia Lai's red soil, highland climate and mature harvest seasons create a bold, intense Vietnamese coffee character. As an origin-based supplier, Solterra provides stable, trusted and verifiable green coffee lots for roasters and importers.",
+    "ctaPrimary": "Request Lot Quote",
+    "ctaSecondary": "Request Sample"
+  },
+
+  "advantages": {
+    "title": "Rooted in Gia Lai, Supplying Vietnam Tay Nguyen Coffee",
+    "items": [
+      {
+        "title": "Gia Lai Origin Base",
+        "body": "We grew up in Gia Lai and understand the relationship between Tay Nguyen red soil, seasons and Robusta raw material quality."
+      },
+      {
+        "title": "Trusted Lot Control",
+        "body": "Each lot is confirmed around moisture, screen size, defect rate and packing requirements so buyers can verify what they buy."
+      },
+      {
+        "title": "Stable Supply Capacity",
+        "body": "With Gia Lai and surrounding Tay Nguyen areas as our supply base, we support recurring supply, long-term contracts and stable planning."
+      },
+      {
+        "title": "Supplier Responsibility",
+        "body": "From lot confirmation and export packing to delivery coordination, Solterra works as the accountable supplier for every cooperation."
+      }
+    ]
+  },
+
+  "products": {
+    "title": "Green Coffee Catalog From Gia Lai and Tay Nguyen",
+    "subtitle": "More than origin names. Each category is built around real supply capacity, lot standards and practical B2B purchasing needs.",
+    "inquire": "Inquire",
+    "specsLabel": "Specifications",
+    "items": {
+      "robusta-green": {
+        "name": "Gia Lai Robusta Green Coffee",
+        "tagline": "GIA LAI ROBUSTA · STABLE VOLUME",
+        "body": "A core Robusta supply from Vietnam's Tay Nguyen highlands, bold in character and suitable for roasters, instant coffee, espresso blends and volume purchasing.",
+        "imageAlt": "Vietnam Robusta green coffee beans",
+        "specValues": {
+          "variety": "Robusta",
+          "origin": "Gia Lai, Tay Nguyen",
+          "screenSize": "Screen 16 / 18",
+          "moisture": "≤ 12.5%",
+          "defectRate": "By contract grade",
+          "useCase": "Espresso blend / Instant / Commercial roasting"
+        }
+      },
+      "arabica-green": {
+        "name": "Vietnam Arabica Green Coffee",
+        "tagline": "ARABICA · FLAVOR-FOCUSED",
+        "body": "Configured for buyers who need brighter flavor and finer layers. A useful complement to Tay Nguyen Robusta for specialty roasters, chains and premium blends.",
+        "imageAlt": "Vietnam Arabica green coffee beans",
+        "specValues": {
+          "variety": "Arabica",
+          "origin": "Lam Dong, Son La, Dien Bien",
+          "processing": "Washed / Natural / Honey",
+          "altitude": "1,000–1,600 m",
+          "cuppingScore": "Provided by lot",
+          "useCase": "Single origin / Specialty blend / Coffee chains"
+        }
+      },
+      "specialty-lots": {
+        "name": "Tay Nguyen Specialty Lots",
+        "tagline": "SPECIALTY LOTS · 80+",
+        "body": "Small, cuppable and traceable lots for roasters who want to explore the highland character of Vietnam beyond commodity coffee.",
+        "imageAlt": "Vietnam specialty green coffee lots",
+        "specValues": {
+          "cuppingScore": "80+",
+          "origin": "Lam Dong, Son La",
+          "processing": "Washed / Honey / Natural",
+          "altitude": "1,200–1,600 m",
+          "lotSize": "Small lots",
+          "packaging": "Jute bag + GrainPro liner"
+        }
+      },
+      "commercial-grade": {
+        "name": "Commercial Grade Green Coffee",
+        "tagline": "COMMERCIAL · STABLE SUPPLY",
+        "body": "Designed for volume purchasing and stable recipes, with emphasis on consistent supply, baseline quality and reliable delivery rhythm.",
+        "imageAlt": "Vietnam commercial grade green coffee",
+        "specValues": {
+          "grade": "Commercial / Contract grade",
+          "variety": "Mainly Robusta, Arabica blend available",
+          "origin": "Vietnam core coffee regions",
+          "screenSize": "Screen 13–18 available",
+          "supplyMode": "FCL / LCL / Long-term contract",
+          "useCase": "OEM / Volume roasting / Cost-focused blends"
+        }
+      },
+      "organic-sustainable": {
+        "name": "Organic and Sustainable Lots",
+        "tagline": "SUSTAINABLE · PREMIUM CHANNELS",
+        "body": "For buyers who need origin storytelling, sustainability positioning or specific certification documents. Certification and traceability are confirmed by actual lot.",
+        "imageAlt": "Vietnam sustainable green coffee lots",
+        "specValues": {
+          "certification": "Confirmed by lot",
+          "origin": "Cooperative / Estate lots",
+          "processing": "Washed / Honey / Natural",
+          "altitude": "Provided by lot",
+          "sample": "200–500g sample evaluation",
+          "packaging": "Jute bag + GrainPro liner"
+        }
+      },
+      "custom-sourcing": {
+        "name": "Contract Supply Program",
+        "tagline": "CONTRACT SUPPLY · BUILT TO DEMAND",
+        "body": "Buyers share target price, flavor, monthly volume, process, screen size and packing requirements. Solterra configures suitable lots from Gia Lai and Tay Nguyen and arranges sample confirmation.",
+        "imageAlt": "Vietnam green coffee contract supply",
+        "specValues": {
+          "serviceScope": "Lot configuration / Samples / Quality data / Export coordination",
+          "variety": "Robusta / Arabica / Mixed lots",
+          "origin": "Selected by buyer target",
+          "supplyMode": "Monthly planning / Contract purchasing",
+          "sample": "Sample cupping before contract",
+          "packaging": "Export and buyer requirements"
+        }
+      }
+    }
+  },
+
+  "specs": {
+    "variety": "Variety",
+    "origin": "Origin",
+    "processing": "Processing",
+    "screenSize": "Screen Size",
+    "moisture": "Moisture",
+    "defectRate": "Defect Rate",
+    "cuppingScore": "Cupping Score",
+    "altitude": "Altitude",
+    "lotSize": "Lot Size",
+    "packaging": "Packaging",
+    "grade": "Grade",
+    "useCase": "Use Case",
+    "sample": "Sample",
+    "supplyMode": "Supply Mode",
+    "certification": "Certification",
+    "serviceScope": "Service Scope"
+  },
+
+  "process": {
+    "title": "Supply Process",
+    "subtitle": "From harvest to packing, each step is controlled and traceable.",
+    "steps": [
+      {
+        "title": "Harvest",
+        "body": "We select stable lots and record origin, farm area and harvest window."
+      },
+      {
+        "title": "Processing",
+        "body": "Washed, honey or natural processing is selected according to the target flavor and lot requirement."
+      },
+      {
+        "title": "Drying",
+        "body": "Moisture reduction is monitored to avoid moldy notes and over-fermentation."
+      },
+      {
+        "title": "Grading",
+        "body": "Screen grading, moisture checks, defect sorting and cupping are arranged by lot."
+      },
+      {
+        "title": "Packing",
+        "body": "Jute bags with GrainPro liners are prepared for export stability during long-distance transport."
+      }
+    ]
+  },
+
+  "terms": {
+    "title": "Trade Terms",
+    "subtitle": "Common cooperation terms are listed below. Final terms follow the signed contract.",
+    "items": [
+      { "label": "Incoterms", "value": "FOB Ho Chi Minh Port / CIF major destination ports" },
+      { "label": "MOQ", "value": "By contract, FCL and LCL support available" },
+      { "label": "Payment", "value": "T/T wire transfer, L/C" },
+      { "label": "Packing", "value": "60kg jute bag / Jute bag + GrainPro liner" },
+      { "label": "Lead Time", "value": "Arranged by lot availability and contract terms" }
+    ],
+    "priceNote": "Prices are not listed publicly. Coffee pricing changes by crop season and lot. Contact us for an updated quote."
+  },
+
+  "sample": {
+    "title": "Request Sample",
+    "body": "We provide 200–500g samples for cupping evaluation. Sample terms and shipping are confirmed before dispatch.",
+    "cta": "Request Sample via WeChat",
+    "note": "Please share target category, expected volume and receiving address when requesting samples."
+  },
+
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "WeChat is the fastest channel. We can communicate in Chinese or English and usually respond within the same business day.",
+    "wechatLabel": "Scan WeChat QR",
+    "wechatHint": "Scan with WeChat and mention your sourcing requirement.",
+    "emailLabel": "Email",
+    "hoursLabel": "Business Hours",
+    "hoursValue": "Monday to Saturday 8:00–18:00 (Vietnam Time GMT+7)",
+    "floatingWechat": "WeChat"
+  },
+
+  "footer": {
+    "tagline": "Vietnam green coffee supplier",
+    "rights": "All rights reserved.",
+    "companyLabel": "Company",
+    "companyName": "SOLTERRA COMPANY LIMITED",
+    "taxLabel": "Tax Code",
+    "addressLabel": "Registered Address"
+  }
+}

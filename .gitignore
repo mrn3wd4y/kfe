@@ -29,6 +29,13 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
+.next-dev*.log
+
+# local review artifacts
+/*.png
+/.edge-review-profile-*/
+/.claude/
+/CLAUDE.md
 
 # env files (can opt-in for committing if needed)
 .env*

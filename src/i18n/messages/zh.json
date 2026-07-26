@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "title": "SOLTERRA — 扎根 Gia Lai 的越南咖啡生豆供应商",
+    "description": "Solterra 扎根越南 Gia Lai 与 Tây Nguyên 产区，稳定供应罗布斯塔、阿拉比卡、精品批次与商业级生豆。批次可核验，供应可信赖。",
+    "ogAlt": "SOLTERRA 越南咖啡生豆供应商"
+  },
+
+  "nav": {
+    "products": "产品",
+    "process": "供应流程",
+    "terms": "贸易条款",
+    "sample": "申请样品",
+    "contact": "联系我们",
+    "menuOpen": "打开菜单",
+    "menuClose": "关闭菜单"
+  },
+
+  "hero": {
+    "eyebrow": "Gia Lai 原产地 · Tây Nguyên 供应基础",
+    "title": "来自越南 Tây Nguyên 的罗布斯塔力量",
+    "subtitle": "Gia Lai 的红土、高原气候与成熟产季，孕育出浓郁、强劲的越南咖啡风味。Solterra 作为产地供应方，为中国烘焙商与进口商提供稳定、可信赖、可核验的咖啡生豆批次。",
+    "ctaPrimary": "获取批次报价",
+    "ctaSecondary": "申请样品"
+  },
+
+  "advantages": {
+    "title": "扎根 Gia Lai，稳定供应越南 Tây Nguyên 咖啡",
+    "items": [
+      {
+        "title": "Gia Lai 原产地身份",
+        "body": "我们生长于 Gia Lai，理解 Tây Nguyên 红土、雨季旱季和罗布斯塔原料之间的关系。"
+      },
+      {
+        "title": "批次可信赖",
+        "body": "每批围绕水分、筛网、瑕疵率和包装要求确认，让客户看到真实、可核验的货。"
+      },
+      {
+        "title": "稳定供应能力",
+        "body": "依托 Gia Lai 及周边 Tây Nguyên 产区的原料基础，支持持续供货、长期合同与稳定排产。"
+      },
+      {
+        "title": "供应方负责到底",
+        "body": "从批次确认、出口包装到交付协调，Solterra 以供应方身份对合作负责。"
+      }
+    ]
+  },
+
+  "products": {
+    "title": "从 Gia Lai 与 Tây Nguyên 出发的咖啡生豆目录",
+    "subtitle": "不只是一个产地名称。每个品类都对应真实的供应基础、批次标准和中国 B2B 买家的采购场景。",
+    "inquire": "咨询此产品",
+    "specsLabel": "规格参数",
+    "items": {
+      "robusta-green": {
+        "name": "Gia Lai 罗布斯塔生豆",
+        "tagline": "GIA LAI ROBUSTA · 批量稳定",
+        "body": "来自越南 Tây Nguyên 核心罗布斯塔供应基础，风味浓郁、结构强劲，适合中国烘焙厂、速溶咖啡、浓缩拼配与大宗采购。",
+        "imageAlt": "越南罗布斯塔咖啡生豆",
+        "specValues": {
+          "variety": "罗布斯塔",
+          "origin": "Gia Lai, Tây Nguyên",
+          "screenSize": "Screen 16 / 18",
+          "moisture": "≤ 12.5%",
+          "defectRate": "按合同等级",
+          "useCase": "意式拼配 / 速溶 / 商业烘焙"
+        }
+      },
+      "arabica-green": {
+        "name": "越南阿拉比卡生豆",
+        "tagline": "ARABICA · 风味型采购",
+        "body": "为需要更明亮风味和更细腻层次的客户配置。与 Tây Nguyên 罗布斯塔形成互补，适合精品烘焙、连锁咖啡和中高端拼配。",
+        "imageAlt": "越南阿拉比卡咖啡生豆",
+        "specValues": {
+          "variety": "阿拉比卡",
+          "origin": "Lâm Đồng, Sơn La, Điện Biên",
+          "processing": "水洗 / 日晒 / 蜜处理",
+          "altitude": "1,000–1,600 米",
+          "cuppingScore": "按批次提供",
+          "useCase": "单品 / 精品拼配 / 连锁门店"
+        }
+      },
+      "specialty-lots": {
+        "name": "Tây Nguyên 精品批次",
+        "tagline": "SPECIALTY LOTS · 80+",
+        "body": "为想探索越南高原风味的烘焙商准备。小批量、可杯测、可追溯，让客户不只买原料，也能发现 Tây Nguyên 咖啡的更多可能。",
+        "imageAlt": "越南精品咖啡批次",
+        "specValues": {
+          "cuppingScore": "80 分以上",
+          "origin": "Lâm Đồng, Sơn La",
+          "processing": "水洗 / 蜜处理 / 日晒",
+          "altitude": "1,200–1,600 米",
+          "lotSize": "小批量",
+          "packaging": "麻袋 + GrainPro 内袋"
+        }
+      },
+      "commercial-grade": {
+        "name": "商业级生豆",
+        "tagline": "COMMERCIAL · 稳定供货",
+        "body": "为规模化采购和稳定配方设计，强调持续供货、基础质量一致性和可信赖的交付节奏。适合大批量烘焙、代工和渠道型客户。",
+        "imageAlt": "越南商业级咖啡生豆",
+        "specValues": {
+          "grade": "商业级 / 合同等级",
+          "variety": "罗布斯塔为主，可混合阿拉比卡",
+          "origin": "越南核心产区",
+          "screenSize": "Screen 13–18 可选",
+          "supplyMode": "整柜 / 拼柜 / 长期合同",
+          "useCase": "OEM / 批量烘焙 / 成本型拼配"
+        }
+      },
+      "organic-sustainable": {
+        "name": "有机与可持续批次",
+        "tagline": "SUSTAINABLE · 高端渠道",
+        "body": "适合需要产地故事、可持续叙事或特定认证文件的客户。围绕真实批次确认认证、检测与可追溯范围，避免空泛承诺。",
+        "imageAlt": "越南可持续咖啡生豆批次",
+        "specValues": {
+          "certification": "依批次确认",
+          "origin": "合作社 / 庄园批次",
+          "processing": "水洗 / 蜜处理 / 日晒",
+          "altitude": "按批次提供",
+          "sample": "200–500g 样品评估",
+          "packaging": "麻袋 + GrainPro 内袋"
+        }
+      },
+      "custom-sourcing": {
+        "name": "合同供应方案",
+        "tagline": "CONTRACT SUPPLY · 按需求供货",
+        "body": "客户提供目标价格、风味、月需求量、加工法、筛网和包装要求，Solterra 基于 Gia Lai 与 Tây Nguyên 供应基础配置批次并安排样品确认。",
+        "imageAlt": "越南咖啡生豆定制寻源服务",
+        "specValues": {
+          "serviceScope": "批次配置 / 样品 / 质量数据 / 出口协调",
+          "variety": "罗布斯塔 / 阿拉比卡 / 混合批次",
+          "origin": "按客户目标筛选",
+          "supplyMode": "按月计划 / 合同采购",
+          "sample": "先样品杯测，再确认合同",
+          "packaging": "按出口和客户要求"
+        }
+      }
+    }
+  },
+
+  "specs": {
+    "variety": "品种",
+    "origin": "产区",
+    "processing": "加工法",
+    "screenSize": "筛网",
+    "moisture": "水分",
+    "defectRate": "瑕疵率",
+    "cuppingScore": "杯测分数",
+    "altitude": "海拔",
+    "lotSize": "批次规模",
+    "packaging": "包装",
+    "grade": "等级",
+    "useCase": "适用场景",
+    "sample": "样品",
+    "supplyMode": "供应方式",
+    "certification": "认证",
+    "serviceScope": "服务范围"
+  },
+
+  "process": {
+    "title": "供应流程",
+    "subtitle": "从采收到包装，每个环节都有据可查。",
+    "steps": [
+      {
+        "title": "采收",
+        "body": "只选择成熟度稳定的批次，记录产区、庄园与采收窗口。"
+      },
+      {
+        "title": "初加工",
+        "body": "依目标风味选择水洗、蜜处理或日晒工艺，控制发酵与清洁度。"
+      },
+      {
+        "title": "干燥",
+        "body": "分层薄铺并持续翻动，追踪水分下降曲线，避免霉味与过度发酵。"
+      },
+      {
+        "title": "分级",
+        "body": "筛网分级、水分检测、瑕疵挑拣，并进行杯测评估。"
+      },
+      {
+        "title": "包装",
+        "body": "麻袋配 GrainPro 内袋，按出口标准封装，长途运输中保持风味与水分稳定。"
+      }
+    ]
+  },
+
+  "terms": {
+    "title": "贸易条款",
+    "subtitle": "常规合作条件如下，具体以合同约定为准。",
+    "items": [
+      { "label": "贸易术语", "value": "FOB Ho Chi Minh Port / CIF 中国主要港口" },
+      { "label": "起订量", "value": "按合同商定，支持整柜与拼柜" },
+      { "label": "付款方式", "value": "T/T 电汇、L/C 信用证" },
+      { "label": "包装规格", "value": "60kg 麻袋 / 麻袋 + GrainPro 内袋" },
+      { "label": "交货周期", "value": "依批次与合同条款安排" }
+    ],
+    "priceNote": "本站不公开价格。行情随产季与批次浮动，请联系我们获取实时报价。"
+  },
+
+  "sample": {
+    "title": "申请样品",
+    "body": "提供 200–500g 样品供杯测评估。样品免费，运费由买方承担。请先确认品质，再洽谈合同。",
+    "cta": "通过微信申请样品",
+    "note": "申请时请告知目标品类、预计用量与收样地址。"
+  },
+
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "微信沟通最快，可使用中文或英文交流，通常当日回复。",
+    "wechatLabel": "扫码添加微信",
+    "wechatHint": "使用微信扫一扫，添加后请注明来意",
+    "emailLabel": "邮箱",
+    "hoursLabel": "工作时间",
+    "hoursValue": "周一至周六 8:00–18:00（越南时间 GMT+7）",
+    "floatingWechat": "微信联系"
+  },
+
+  "footer": {
+    "tagline": "越南咖啡生豆供应商",
+    "rights": "保留所有权利。",
+    "companyLabel": "公司名称",
+    "companyName": "SOLTERRA 有限责任公司",
+    "taxLabel": "企业税号",
+    "addressLabel": "注册地址"
+  }
+}
