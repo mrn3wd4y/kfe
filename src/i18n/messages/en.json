@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "SOLTERRA — Vietnam Green Coffee Supplier Rooted in Gia Lai",
-    "description": "Solterra is a Vietnam green coffee supplier rooted in Gia Lai and Tay Nguyen, supplying Robusta, Arabica, specialty lots and commercial grade green coffee for export buyers.",
+    "description": "Solterra is a Vietnam green coffee supplier rooted in Gia Lai and the Highlands, supplying Robusta, Arabica, specialty lots and commercial grade green coffee for export buyers.",
     "ogAlt": "SOLTERRA Vietnam green coffee supplier"
   },
 
@@ -16,19 +16,19 @@
   },
 
   "hero": {
-    "eyebrow": "Gia Lai Origin · Tay Nguyen Supply Base",
-    "title": "Robusta Strength From Vietnam's Tay Nguyen Highlands",
+    "eyebrow": "Gia Lai Origin · Highlands Supply Base",
+    "title": "Robusta Strength From Vietnam's Highlands",
     "subtitle": "Gia Lai's red soil, highland climate and mature harvest seasons create a bold, intense Vietnamese coffee character. As an origin-based supplier, Solterra provides stable, trusted and verifiable green coffee lots for roasters and importers.",
     "ctaPrimary": "Request Lot Quote",
     "ctaSecondary": "Request Sample"
   },
 
   "advantages": {
-    "title": "Rooted in Gia Lai, Supplying Vietnam Tay Nguyen Coffee",
+    "title": "Rooted in Gia Lai, Supplying Vietnam Highlands Coffee",
     "items": [
       {
         "title": "Gia Lai Origin Base",
-        "body": "We grew up in Gia Lai and understand the relationship between Tay Nguyen red soil, seasons and Robusta raw material quality."
+        "body": "We grew up in Gia Lai and understand the relationship between Highlands red soil, seasons and Robusta raw material quality."
       },
       {
         "title": "Trusted Lot Control",
@@ -36,7 +36,7 @@
       },
       {
         "title": "Stable Supply Capacity",
-        "body": "With Gia Lai and surrounding Tay Nguyen areas as our supply base, we support recurring supply, long-term contracts and stable planning."
+        "body": "With Gia Lai and surrounding Highlands areas as our supply base, we support recurring supply, long-term contracts and stable planning."
       },
       {
         "title": "Supplier Responsibility",
@@ -46,7 +46,7 @@
   },
 
   "products": {
-    "title": "Green Coffee Catalog From Gia Lai and Tay Nguyen",
+    "title": "Green Coffee Catalog From Gia Lai and the Highlands",
     "subtitle": "More than origin names. Each category is built around real supply capacity, lot standards and practical B2B purchasing needs.",
     "inquire": "Inquire",
     "specsLabel": "Specifications",
@@ -54,11 +54,11 @@
       "robusta-green": {
         "name": "Gia Lai Robusta Green Coffee",
         "tagline": "GIA LAI ROBUSTA · STABLE VOLUME",
-        "body": "A core Robusta supply from Vietnam's Tay Nguyen highlands, bold in character and suitable for roasters, instant coffee, espresso blends and volume purchasing.",
+        "body": "A core Robusta supply from Vietnam's Highlands, bold in character and suitable for roasters, instant coffee, espresso blends and volume purchasing.",
         "imageAlt": "Vietnam Robusta green coffee beans",
         "specValues": {
           "variety": "Robusta",
-          "origin": "Gia Lai, Tay Nguyen",
+          "origin": "Gia Lai, Highlands",
           "screenSize": "Screen 16 / 18",
           "moisture": "≤ 12.5%",
           "defectRate": "By contract grade",
@@ -68,7 +68,7 @@
       "arabica-green": {
         "name": "Vietnam Arabica Green Coffee",
         "tagline": "ARABICA · FLAVOR-FOCUSED",
-        "body": "Configured for buyers who need brighter flavor and finer layers. A useful complement to Tay Nguyen Robusta for specialty roasters, chains and premium blends.",
+        "body": "Configured for buyers who need brighter flavor and finer layers. A useful complement to Highlands Robusta for specialty roasters, chains and premium blends.",
         "imageAlt": "Vietnam Arabica green coffee beans",
         "specValues": {
           "variety": "Arabica",
@@ -80,7 +80,7 @@
         }
       },
       "specialty-lots": {
-        "name": "Tay Nguyen Specialty Lots",
+        "name": "Highlands Specialty Lots",
         "tagline": "SPECIALTY LOTS · 80+",
         "body": "Small, cuppable and traceable lots for roasters who want to explore the highland character of Vietnam beyond commodity coffee.",
         "imageAlt": "Vietnam specialty green coffee lots",
@@ -124,7 +124,7 @@
       "custom-sourcing": {
         "name": "Contract Supply Program",
         "tagline": "CONTRACT SUPPLY · BUILT TO DEMAND",
-        "body": "Buyers share target price, flavor, monthly volume, process, screen size and packing requirements. Solterra configures suitable lots from Gia Lai and Tay Nguyen and arranges sample confirmation.",
+        "body": "Buyers share target price, flavor, monthly volume, process, screen size and packing requirements. Solterra configures suitable lots from Gia Lai and the Highlands and arranges sample confirmation.",
         "imageAlt": "Vietnam green coffee contract supply",
         "specValues": {
           "serviceScope": "Lot configuration / Samples / Quality data / Export coordination",

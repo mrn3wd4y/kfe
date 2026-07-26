@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "SOLTERRA — 扎根 Gia Lai 的越南咖啡生豆供应商",
-    "description": "Solterra 扎根越南 Gia Lai 与 Tây Nguyên 产区，稳定供应罗布斯塔、阿拉比卡、精品批次与商业级生豆。批次可核验，供应可信赖。",
+    "description": "Solterra 扎根越南 Gia Lai 与高原产区，稳定供应罗布斯塔、阿拉比卡、精品批次与商业级生豆。批次可核验，供应可信赖。",
     "ogAlt": "SOLTERRA 越南咖啡生豆供应商"
   },
 
@@ -16,19 +16,19 @@
   },
 
   "hero": {
-    "eyebrow": "Gia Lai 原产地 · Tây Nguyên 供应基础",
-    "title": "来自越南 Tây Nguyên 的罗布斯塔力量",
+    "eyebrow": "Gia Lai 原产地 · 高原供应基础",
+    "title": "来自越南高原的罗布斯塔力量",
     "subtitle": "Gia Lai 的红土、高原气候与成熟产季，孕育出浓郁、强劲的越南咖啡风味。Solterra 作为产地供应方，为中国烘焙商与进口商提供稳定、可信赖、可核验的咖啡生豆批次。",
     "ctaPrimary": "获取批次报价",
     "ctaSecondary": "申请样品"
   },
 
   "advantages": {
-    "title": "扎根 Gia Lai，稳定供应越南 Tây Nguyên 咖啡",
+    "title": "扎根 Gia Lai，稳定供应越南高原咖啡",
     "items": [
       {
         "title": "Gia Lai 原产地身份",
-        "body": "我们生长于 Gia Lai，理解 Tây Nguyên 红土、雨季旱季和罗布斯塔原料之间的关系。"
+        "body": "我们生长于 Gia Lai，理解高原红土、雨季旱季和罗布斯塔原料之间的关系。"
       },
       {
         "title": "批次可信赖",
@@ -36,7 +36,7 @@
       },
       {
         "title": "稳定供应能力",
-        "body": "依托 Gia Lai 及周边 Tây Nguyên 产区的原料基础，支持持续供货、长期合同与稳定排产。"
+        "body": "依托 Gia Lai 及周边高原产区的原料基础，支持持续供货、长期合同与稳定排产。"
       },
       {
         "title": "供应方负责到底",
@@ -46,7 +46,7 @@
   },
 
   "products": {
-    "title": "从 Gia Lai 与 Tây Nguyên 出发的咖啡生豆目录",
+    "title": "从 Gia Lai 与越南高原出发的咖啡生豆目录",
     "subtitle": "不只是一个产地名称。每个品类都对应真实的供应基础、批次标准和中国 B2B 买家的采购场景。",
     "inquire": "咨询此产品",
     "specsLabel": "规格参数",
@@ -54,11 +54,11 @@
       "robusta-green": {
         "name": "Gia Lai 罗布斯塔生豆",
         "tagline": "GIA LAI ROBUSTA · 批量稳定",
-        "body": "来自越南 Tây Nguyên 核心罗布斯塔供应基础，风味浓郁、结构强劲，适合中国烘焙厂、速溶咖啡、浓缩拼配与大宗采购。",
+        "body": "来自越南高原核心罗布斯塔供应基础，风味浓郁、结构强劲，适合中国烘焙厂、速溶咖啡、浓缩拼配与大宗采购。",
         "imageAlt": "越南罗布斯塔咖啡生豆",
         "specValues": {
           "variety": "罗布斯塔",
-          "origin": "Gia Lai, Tây Nguyên",
+          "origin": "Gia Lai, 越南高原",
           "screenSize": "Screen 16 / 18",
           "moisture": "≤ 12.5%",
           "defectRate": "按合同等级",
@@ -68,11 +68,11 @@
       "arabica-green": {
         "name": "越南阿拉比卡生豆",
         "tagline": "ARABICA · 风味型采购",
-        "body": "为需要更明亮风味和更细腻层次的客户配置。与 Tây Nguyên 罗布斯塔形成互补，适合精品烘焙、连锁咖啡和中高端拼配。",
+        "body": "为需要更明亮风味和更细腻层次的客户配置。与高原罗布斯塔形成互补，适合精品烘焙、连锁咖啡和中高端拼配。",
         "imageAlt": "越南阿拉比卡咖啡生豆",
         "specValues": {
           "variety": "阿拉比卡",
-          "origin": "Lâm Đồng, Sơn La, Điện Biên",
+          "origin": "Lam Dong, Son La, Dien Bien",
           "processing": "水洗 / 日晒 / 蜜处理",
           "altitude": "1,000–1,600 米",
           "cuppingScore": "按批次提供",
@@ -80,13 +80,13 @@
         }
       },
       "specialty-lots": {
-        "name": "Tây Nguyên 精品批次",
+        "name": "越南高原精品批次",
         "tagline": "SPECIALTY LOTS · 80+",
-        "body": "为想探索越南高原风味的烘焙商准备。小批量、可杯测、可追溯，让客户不只买原料，也能发现 Tây Nguyên 咖啡的更多可能。",
+        "body": "为想探索越南高原风味的烘焙商准备。小批量、可杯测、可追溯，让客户不只买原料，也能发现高原咖啡的更多可能。",
         "imageAlt": "越南精品咖啡批次",
         "specValues": {
           "cuppingScore": "80 分以上",
-          "origin": "Lâm Đồng, Sơn La",
+          "origin": "Lam Dong, Son La",
           "processing": "水洗 / 蜜处理 / 日晒",
           "altitude": "1,200–1,600 米",
           "lotSize": "小批量",
@@ -124,7 +124,7 @@
       "custom-sourcing": {
         "name": "合同供应方案",
         "tagline": "CONTRACT SUPPLY · 按需求供货",
-        "body": "客户提供目标价格、风味、月需求量、加工法、筛网和包装要求，Solterra 基于 Gia Lai 与 Tây Nguyên 供应基础配置批次并安排样品确认。",
+        "body": "客户提供目标价格、风味、月需求量、加工法、筛网和包装要求，Solterra 基于 Gia Lai 与越南高原供应基础配置批次并安排样品确认。",
         "imageAlt": "越南咖啡生豆定制寻源服务",
         "specValues": {
           "serviceScope": "批次配置 / 样品 / 质量数据 / 出口协调",

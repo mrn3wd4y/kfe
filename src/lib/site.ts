@@ -13,7 +13,7 @@ export const site = {
     legalName: "CÔNG TY TNHH SOLTERRA",
     taxCode: "0319637259",
     address:
-      "27C Quốc Hương, Phường An Khánh, Thành phố Hồ Chí Minh, Việt Nam",
+      "27C Quoc Huong, Phuong An Khanh, Thanh pho Ho Chi Minh, Viet Nam",
   },
 
   /** Đổi thành domain thật sau khi mua — dùng cho sitemap, canonical, thẻ OG. */

@@ -68,30 +68,30 @@ export function Footer({
         className="absolute inset-0 bg-[linear-gradient(90deg,rgba(26,18,13,0.94),rgba(26,18,13,0.74)_42%,rgba(26,18,13,0.9))]"
       />
 
-      <div className="gutter relative mx-auto max-w-7xl py-12 sm:py-16">
-        <div className="grid gap-10 md:grid-cols-2 xl:grid-cols-[1.15fr_0.7fr_0.9fr_1.1fr] xl:gap-14">
+      <div className="gutter relative mx-auto max-w-7xl py-9 sm:py-12">
+        <div className="grid gap-8 md:grid-cols-2 xl:grid-cols-[1.15fr_0.7fr_0.9fr_1.1fr] xl:gap-10">
           <div>
-            <div className="inline-flex items-center gap-3">
-              <SolterraLogo className="h-12 w-12 shrink-0 text-amber-bright" />
+            <div className="inline-flex items-center gap-2.5">
+              <SolterraLogo className="h-10 w-10 shrink-0 text-amber-bright" />
               <span>
-                <span className="block font-display text-[1.1rem] font-medium tracking-brand text-cream">
+                <span className="block font-display text-[1rem] font-medium tracking-brand text-cream">
                   {site.name}
                 </span>
-                <span className="mt-1 block text-[0.64rem] uppercase tracking-label text-cream/58">
+                <span className="mt-0.5 block text-[0.6rem] uppercase tracking-label text-cream/58">
                   Vietnam Green Coffee
                 </span>
               </span>
             </div>
 
-            <p className="mt-6 max-w-sm text-small text-cream/78">
+            <p className="mt-4 max-w-sm text-small leading-6 text-cream/78">
               Solterra is a Vietnam green coffee supplier rooted in Gia Lai and
-              Tây Nguyên, supplying trusted, stable and verifiable green coffee
+              the Highlands, supplying trusted, stable and verifiable green coffee
               lots for B2B buyers.
             </p>
 
             <a
               href={`/${locale}/#contact`}
-              className="group mt-6 inline-flex items-center gap-2 text-small font-medium text-amber-bright"
+              className="group mt-4 inline-flex items-center gap-2 text-small font-medium text-amber-bright"
             >
               Contact Solterra
               <ArrowUpRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
@@ -105,8 +105,8 @@ export function Footer({
             <h3 className="text-small font-semibold uppercase tracking-label text-cream">
               SOLTERRA OFFICE
             </h3>
-            <ul className="mt-5 space-y-3 text-small text-cream/82">
-              <li className="flex gap-3">
+            <ul className="mt-4 space-y-2.5 text-small leading-6 text-cream/82">
+              <li className="flex gap-2.5">
                 <MapPin className="mt-1 h-4 w-4 shrink-0 text-amber-bright" />
                 <span>
                   <span className="block text-cream/55">{companyLabel}</span>
@@ -114,20 +114,20 @@ export function Footer({
                   <span className="mt-1 block text-cream/52">{site.company.legalName}</span>
                 </span>
               </li>
-              <li className="flex gap-3">
+              <li className="flex gap-2.5">
                 <MapPin className="mt-1 h-4 w-4 shrink-0 text-amber-bright" />
                 <span>
                   <span className="block text-cream/55">{addressLabel}</span>
                   {site.company.address}
                 </span>
               </li>
-              <li className="flex gap-3">
+              <li className="flex gap-2.5">
                 <Phone className="mt-1 h-4 w-4 shrink-0 text-amber-bright" />
                 <a href={`tel:${site.phone.replace(/\s/g, "")}`} className="hover:text-cream">
                   {site.phone}
                 </a>
               </li>
-              <li className="flex gap-3">
+              <li className="flex gap-2.5">
                 <Mail className="mt-1 h-4 w-4 shrink-0 text-amber-bright" />
                 <a href={`mailto:${site.email}`} className="hover:text-cream">
                   {site.email}
@@ -140,7 +140,7 @@ export function Footer({
           </div>
         </div>
 
-        <div className="mt-12 flex flex-col gap-3 border-t border-white/16 pt-6 text-label uppercase tracking-label text-cream/50 sm:flex-row sm:items-center sm:justify-between">
+        <div className="mt-8 flex flex-col gap-2 border-t border-white/16 pt-5 text-label uppercase tracking-label text-cream/50 sm:flex-row sm:items-center sm:justify-between">
           <span>
             © {new Date().getFullYear()} {site.company.legalName}. {rights}
           </span>
@@ -161,7 +161,7 @@ function FooterColumn({
   return (
     <div>
       <h3 className="text-small font-semibold uppercase tracking-label text-cream">{title}</h3>
-      <ul className="mt-5 space-y-3">
+      <ul className="mt-4 space-y-2">
         {links.map((link) => (
           <li key={link.href}>
             <a

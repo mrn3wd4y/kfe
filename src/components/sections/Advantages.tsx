@@ -4,19 +4,19 @@ const stats = {
   zh: [
     {
       value: "01",
-      label: "GIA LAI ORIGIN BASE",
-      body: "扎根 Gia Lai，一个让越南罗布斯塔拥有强劲性格的 Tây Nguyên 产区",
+      label: "GIA LAI 原产地基础",
+      body: "扎根 Gia Lai，一个让越南罗布斯塔拥有强劲性格的高原产区",
       image: "/images/products/solterra-real-robusta-green.jpg",
     },
     {
       value: "3+",
-      label: "CENTRAL HIGHLANDS SUPPLY AREAS",
-      body: "以 Gia Lai 为核心，延伸至周边 Tây Nguyên 产区，形成更稳定的供货基础",
+      label: "高原供应区域",
+      body: "以 Gia Lai 为核心，延伸至周边高原产区，形成更稳定的供货基础",
       image: "/images/products/solterra-real-hero-warehouse.jpg",
     },
     {
       value: "100%",
-      label: "LOT RESPONSIBILITY",
+      label: "批次责任",
       body: "每批围绕质量、分级、包装与交付节奏进行确认",
       image: "/images/products/solterra-grainpro-packaging.jpg",
     },
@@ -25,13 +25,13 @@ const stats = {
     {
       value: "01",
       label: "GIA LAI ORIGIN BASE",
-      body: "Rooted in Gia Lai, a Tay Nguyen origin that shapes Vietnam Robusta's bold character.",
+      body: "Rooted in Gia Lai, a Highlands origin that shapes Vietnam Robusta's bold character.",
       image: "/images/products/solterra-real-robusta-green.jpg",
     },
     {
       value: "3+",
       label: "CENTRAL HIGHLANDS SUPPLY AREAS",
-      body: "Built around Gia Lai and surrounding Tay Nguyen areas for a more stable supply base.",
+      body: "Built around Gia Lai and surrounding Highlands areas for a more stable supply base.",
       image: "/images/products/solterra-real-hero-warehouse.jpg",
     },
     {
@@ -61,7 +61,7 @@ export function Advantages({
             Solterra Coffee Export
           </h2>
           <p className="mt-4 text-[1.05rem] font-semibold italic text-ink">
-            Trusted Vietnam green coffee supplier rooted in Gia Lai and Tay Nguyen
+            Trusted Vietnam green coffee supplier rooted in Gia Lai and the Highlands
           </p>
 
           <div className="mt-6 max-w-6xl space-y-5 text-[1rem] leading-8 text-ink">
@@ -69,12 +69,12 @@ export function Advantages({
               <>
                 <p>
                   Solterra is a Vietnam green coffee supplier rooted in Gia Lai.
-                  Located in the heart of Tay Nguyen, Gia Lai is one of Vietnam&apos;s
+                  Located in the heart of the Highlands, Gia Lai is one of Vietnam&apos;s
                   important Robusta origins, where red soil, highland climate and
                   mature harvest seasons create a bold and curious coffee character.
                 </p>
                 <p>
-                  With Gia Lai and surrounding Tay Nguyen areas as our supply base,
+                  With Gia Lai and surrounding Highlands areas as our supply base,
                   we participate in raw material selection, lot grading, quality
                   confirmation and export packing preparation for roasters, importers
                   and coffee companies.
@@ -88,10 +88,10 @@ export function Advantages({
             ) : (
               <>
                 <p>
-                  Solterra 是一家扎根于越南 Gia Lai 的咖啡生豆供应商。Gia Lai 位于 Tây Nguyên 腹地，是越南重要的罗布斯塔产区之一。这里的红土、高原气候与成熟产季，让咖啡呈现出浓郁、强劲、令人好奇的风味基础。
+                  Solterra 是一家扎根于越南 Gia Lai 的咖啡生豆供应商。Gia Lai 位于高原腹地，是越南重要的罗布斯塔产区之一。这里的红土、高原气候与成熟产季，让咖啡呈现出浓郁、强劲、令人好奇的风味基础。
                 </p>
                 <p>
-                  我们以 Gia Lai 及周边 Tây Nguyên 产区为供应基础，直接参与原料筛选、批次分级、质量确认与出口包装准备，为中国烘焙商、进口商和咖啡企业持续供应可信赖的越南咖啡生豆。
+                  我们以 Gia Lai 及周边高原产区为供应基础，直接参与原料筛选、批次分级、质量确认与出口包装准备，为中国烘焙商、进口商和咖啡企业持续供应可信赖的越南咖啡生豆。
                 </p>
                 <p>
                   Solterra 的角色不是简单介绍货源，而是作为供应方对批次信息、质量标准、供货稳定性、包装要求和交付协调负责。我们希望客户在每一次询价、样品和合同中，都能感受到稳定、透明与长期合作的信任。
@@ -117,14 +117,16 @@ export function Advantages({
                   className="object-cover transition-transform duration-700 hover:scale-[1.035]"
                 />
               </div>
-              <div className="px-6 py-8 text-center sm:px-8">
+              <div className="flex flex-col items-center px-6 py-8 text-center sm:px-8">
                 <div className="font-display text-[clamp(2.25rem,4vw,3.25rem)] font-semibold leading-none text-signal">
                   {stat.value}
                 </div>
-                <div className="mx-auto mt-5 max-w-[18rem] text-small font-medium uppercase text-muted">
+                <div className="mx-auto mt-5 max-w-[18rem] text-center text-small font-medium uppercase text-muted">
                   {stat.label}
                 </div>
-                <p className="mx-auto mt-3 max-w-[18rem] text-small text-ink/75">{stat.body}</p>
+                <p className="mx-auto mt-3 max-w-[18rem] text-center text-small leading-6 text-ink/75">
+                  {stat.body}
+                </p>
               </div>
             </article>
           ))}
