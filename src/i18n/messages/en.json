@@ -1,13 +1,13 @@
 {
   "meta": {
     "title": "SOLTERRA — Vietnam Green Coffee Supplier Rooted in Gia Lai",
-    "description": "Solterra is a Vietnam green coffee supplier rooted in Gia Lai and the Highlands, supplying Robusta, Arabica, specialty lots and commercial grade green coffee for export buyers.",
+    "description": "Solterra is a Vietnam green coffee supplier rooted in Gia Lai and the Highlands, supplying Robusta, Arabica, Liberica and specialty green coffee lots for export buyers.",
     "ogAlt": "SOLTERRA Vietnam green coffee supplier"
   },
 
   "nav": {
+    "about": "About Us",
     "products": "Products",
-    "process": "Supply Process",
     "terms": "Trade Terms",
     "sample": "Request Sample",
     "contact": "Contact",
@@ -41,6 +41,63 @@
       {
         "title": "Supplier Responsibility",
         "body": "From lot confirmation and export packing to delivery coordination, Solterra works as the accountable supplier for every cooperation."
+      }
+    ]
+  },
+
+  "aboutPage": {
+    "eyebrow": "SOLTERRA / ABOUT US",
+    "title": "Bringing Gia Lai Coffee Character to the World",
+    "subtitle": "Solterra grew from Gia Lai. We believe Vietnam's highland red soil, sun and mature harvest seasons can create green coffee with a bold, intense and memorable local character.",
+    "manifesto": "What we want to bring out is not only green coffee, but the bold, direct and place-rooted character carried by Gia Lai's highland soil.",
+    "storyTitle": "A Fiery Coffee Character From the Highlands",
+    "story": [
+      "We did not come to coffee through a trading list first. We came to it through Gia Lai's land, seasons and local coffee life. The coffee here carries a direct, intense and energetic character, and that is the local flavor Solterra wants to introduce to international buyers.",
+      "Solterra aims to bring the real texture of local coffee to the world: no inflated origin story, no vague promise, just clear lot information, practical quality control, export packing and stable supply for roasters, importers and brand buyers.",
+      "Our role is supplier, not simply source introduction. We care about every inquiry, sample confirmation and contract delivery so buyers can work with clear information, steady communication and a reliable basis for long-term cooperation."
+    ],
+    "regionTitle": "Vietnam Highlands, a Land of Coffee",
+    "regionBody": "Vietnam's Highlands are known as a land of coffee, supplying high-quality coffee for the domestic market and carrying Vietnamese coffee further into the world. Gia Lai province alone has more than 106,000 hectares of coffee cultivation, including over 40,000 hectares grown toward export standards, 4C and organic practices, forming an important base for stable and trustworthy supply.",
+    "regionStats": [
+      { "value": "106,000+ ha", "label": "Coffee cultivation area in Gia Lai" },
+      { "value": "40,000+ ha", "label": "Grown toward export standards, 4C and organic practices" },
+      { "value": "Highlands", "label": "Source of bold and intense coffee character" }
+    ],
+    "characterTitle": "The Cup Character of Highlands Coffee",
+    "characterIntro": "Highlands coffee inherits loose, deep basalt red soil, a clear wet-dry monsoon rhythm and elevations suited to Robusta cultivation. Gia Lai sits in the northern Highlands at around 700–800 m above sea level, shaping a fuller, stronger and gently sweet coffee base.",
+    "characterItems": [
+      {
+        "label": "Robusta First",
+        "body": "Robusta is the dominant variety in the Highlands and grows well around 500–900 m. Its caffeine level is typically higher than Arabica, giving stronger alertness, heavier body and a bolder bitterness."
+      },
+      {
+        "label": "Flavor Profile",
+        "body": "Typical Highlands Robusta shows deep bitterness, round and full body, a lingering finish, and notes that can suggest wood, dark chocolate, cacao and roasted nuts."
+      },
+      {
+        "label": "Gia Lai Character",
+        "body": "Gia Lai Robusta is known for uniform beans, firm density and lower defect rates. Green beans can carry a light natural aroma, while roasting may reveal warm wood, caramel and chocolate notes."
+      },
+      {
+        "label": "Fine Robusta Direction",
+        "body": "With organic, 4C and RA-oriented cultivation, plus honey, natural and controlled fermentation processing, Gia Lai coffee can express dried fruit, honeyed sweetness and a smoother bitterness."
+      }
+    ],
+    "highlights": [
+      {
+        "value": "Gia Lai",
+        "label": "Local Roots",
+        "body": "Raised in one of Vietnam's important Robusta origins, with a practical understanding of raw material and crop rhythm."
+      },
+      {
+        "value": "Highlands",
+        "label": "Flavor Source",
+        "body": "Red soil, highland climate and mature harvest seasons shape a bold and intense coffee character."
+      },
+      {
+        "value": "World",
+        "label": "Export Aim",
+        "body": "Bringing local coffee character to international buyers through stable and trustworthy supply."
       }
     ]
   },
@@ -93,42 +150,42 @@
           "packaging": "Jute bag + GrainPro liner"
         }
       },
-      "commercial-grade": {
-        "name": "Commercial Grade Green Coffee",
-        "tagline": "COMMERCIAL · STABLE SUPPLY",
-        "body": "Designed for volume purchasing and stable recipes, with emphasis on consistent supply, baseline quality and reliable delivery rhythm.",
-        "imageAlt": "Vietnam commercial grade green coffee",
+      "liberica-green": {
+        "name": "Vietnam Liberica Green Coffee",
+        "tagline": "LIBERICA · DISTINCTIVE VARIETY",
+        "body": "Known locally as ca phe mit, Vietnam Liberica gives buyers a more distinctive profile for differentiated menus, origin stories and memorable blends.",
+        "imageAlt": "Vietnam Liberica green coffee beans",
         "specValues": {
-          "grade": "Commercial / Contract grade",
-          "variety": "Mainly Robusta, Arabica blend available",
-          "origin": "Vietnam core coffee regions",
-          "screenSize": "Screen 13–18 available",
-          "supplyMode": "FCL / LCL / Long-term contract",
-          "useCase": "OEM / Volume roasting / Cost-focused blends"
+          "grade": "Confirmed by lot",
+          "variety": "Liberica",
+          "origin": "Vietnam Highlands",
+          "screenSize": "Provided by lot",
+          "supplyMode": "Small lots / Contract purchasing",
+          "useCase": "Signature blends / Single-origin development / Differentiated menus"
         }
       },
-      "organic-sustainable": {
-        "name": "Organic and Sustainable Lots",
-        "tagline": "SUSTAINABLE · PREMIUM CHANNELS",
-        "body": "For buyers who need origin storytelling, sustainability positioning or specific certification documents. Certification and traceability are confirmed by actual lot.",
-        "imageAlt": "Vietnam sustainable green coffee lots",
+      "liberica-specialty": {
+        "name": "Liberica Specialty Lots",
+        "tagline": "LIBERICA LOTS · FLAVOR EXPLORATION",
+        "body": "Small Liberica lots for specialty roasters and product teams who want to evaluate cup profile, processing method, aroma expression and batch story before committing.",
+        "imageAlt": "Vietnam Liberica specialty green coffee lots",
         "specValues": {
-          "certification": "Confirmed by lot",
-          "origin": "Cooperative / Estate lots",
+          "certification": "Traceability confirmed by lot",
+          "origin": "Vietnam Highlands small lots",
           "processing": "Washed / Honey / Natural",
           "altitude": "Provided by lot",
           "sample": "200–500g sample evaluation",
           "packaging": "Jute bag + GrainPro liner"
         }
       },
-      "custom-sourcing": {
-        "name": "Contract Supply Program",
-        "tagline": "CONTRACT SUPPLY · BUILT TO DEMAND",
-        "body": "Buyers share target price, flavor, monthly volume, process, screen size and packing requirements. Solterra configures suitable lots from Gia Lai and the Highlands and arranges sample confirmation.",
-        "imageAlt": "Vietnam green coffee contract supply",
+      "liberica-contract": {
+        "name": "Liberica Contract Supply Program",
+        "tagline": "LIBERICA SUPPLY · BUILT TO DEMAND",
+        "body": "Buyers share target flavor, monthly volume, processing, screen size and packing requirements. Solterra configures Liberica samples and contract supply plans around real lot availability.",
+        "imageAlt": "Vietnam Liberica green coffee contract supply",
         "specValues": {
           "serviceScope": "Lot configuration / Samples / Quality data / Export coordination",
-          "variety": "Robusta / Arabica / Mixed lots",
+          "variety": "Liberica / Blend requirements by discussion",
           "origin": "Selected by buyer target",
           "supplyMode": "Monthly planning / Contract purchasing",
           "sample": "Sample cupping before contract",
@@ -155,33 +212,6 @@
     "supplyMode": "Supply Mode",
     "certification": "Certification",
     "serviceScope": "Service Scope"
-  },
-
-  "process": {
-    "title": "Supply Process",
-    "subtitle": "From harvest to packing, each step is controlled and traceable.",
-    "steps": [
-      {
-        "title": "Harvest",
-        "body": "We select stable lots and record origin, farm area and harvest window."
-      },
-      {
-        "title": "Processing",
-        "body": "Washed, honey or natural processing is selected according to the target flavor and lot requirement."
-      },
-      {
-        "title": "Drying",
-        "body": "Moisture reduction is monitored to avoid moldy notes and over-fermentation."
-      },
-      {
-        "title": "Grading",
-        "body": "Screen grading, moisture checks, defect sorting and cupping are arranged by lot."
-      },
-      {
-        "title": "Packing",
-        "body": "Jute bags with GrainPro liners are prepared for export stability during long-distance transport."
-      }
-    ]
   },
 
   "terms": {

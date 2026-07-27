@@ -50,7 +50,7 @@ export const products: Product[] = [
     ],
   },
   {
-    slug: "commercial-grade",
+    slug: "liberica-green",
     image: "/images/products/solterra-real-robusta-green.jpg",
     secondaryImage: "/images/products/solterra-grainpro-packaging.jpg",
     specKeys: [
@@ -63,7 +63,7 @@ export const products: Product[] = [
     ],
   },
   {
-    slug: "organic-sustainable",
+    slug: "liberica-specialty",
     image: "/images/generated/solterra-qc-inspection-green-coffee.jpg",
     secondaryImage: "/images/products/solterra-real-specialty-lots.jpg",
     specKeys: [
@@ -76,7 +76,7 @@ export const products: Product[] = [
     ],
   },
   {
-    slug: "custom-sourcing",
+    slug: "liberica-contract",
     image: "/images/products/solterra-real-hero-warehouse.jpg",
     secondaryImage: "/images/products/solterra-macro-green-beans.jpg",
     specKeys: [

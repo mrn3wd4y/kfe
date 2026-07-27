@@ -2,7 +2,7 @@
 export const site = {
   name: "SOLTERRA",
   email: "support@solterravn.com",
-  phone: "0346 97 8118",
+  phone: "+84 346 97 8118",
 
   /*
    * Thông tin pháp nhân. Giữ nguyên bản tiếng Việt vì đây là tên và địa chỉ

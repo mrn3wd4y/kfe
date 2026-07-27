@@ -23,11 +23,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   );
 
-  const processPages = locales.map((locale) => ({
-    url: `${site.url}/${locale}/process/`,
+  const aboutPages = locales.map((locale) => ({
+    url: `${site.url}/${locale}/about/`,
     lastModified: new Date(),
     changeFrequency: "monthly" as const,
-    priority: 0.75,
+    priority: 0.78,
   }));
 
   const termsPages = locales.map((locale) => ({
@@ -37,5 +37,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.72,
   }));
 
-  return [...homePages, ...processPages, ...termsPages, ...productPages];
+  return [...homePages, ...aboutPages, ...termsPages, ...productPages];
 }

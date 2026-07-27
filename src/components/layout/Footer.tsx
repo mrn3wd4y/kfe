@@ -17,7 +17,6 @@ type FooterProps = {
 const aboutLinks = [
   { hash: "advantages", label: "About us" },
   { hash: "products", label: "Products" },
-  { hash: "process", label: "Supply Process" },
   { hash: "terms", label: "Trade Terms" },
   { hash: "contact", label: "Contact us" },
 ];
@@ -26,8 +25,9 @@ const productLinks = [
   { slug: "robusta-green", label: "Gia Lai Robusta" },
   { slug: "arabica-green", label: "Vietnam Arabica" },
   { slug: "specialty-lots", label: "Specialty Lots" },
-  { slug: "commercial-grade", label: "Commercial Grade" },
-  { slug: "custom-sourcing", label: "Contract Supply" },
+  { slug: "liberica-green", label: "Vietnam Liberica" },
+  { slug: "liberica-specialty", label: "Liberica Specialty" },
+  { slug: "liberica-contract", label: "Liberica Contract Supply" },
 ];
 
 export function Footer({
@@ -45,8 +45,8 @@ export function Footer({
   }));
   const localizedAboutLinks = aboutLinks.map((link) => ({
     href:
-      link.hash === "process"
-        ? `/${locale}/process/`
+      link.hash === "advantages"
+        ? `/${locale}/about/`
         : link.hash === "terms"
           ? `/${locale}/terms/`
           : `/${locale}/#${link.hash}`,

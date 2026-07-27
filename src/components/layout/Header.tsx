@@ -8,8 +8,8 @@ import { SolterraLogo } from "@/components/brand/SolterraLogo";
 import { site } from "@/lib/site";
 
 type NavLabels = {
+  about: string;
   products: string;
-  process: string;
   terms: string;
   sample: string;
   contact: string;
@@ -20,8 +20,8 @@ type NavLabels = {
 export function Header({ nav, locale }: { nav: NavLabels; locale: string }) {
   const [open, setOpen] = useState(false);
   const links = [
+    { href: `/${locale}/about/`, label: nav.about },
     { href: `/${locale}/#products`, label: nav.products },
-    { href: `/${locale}/process/`, label: nav.process },
     { href: `/${locale}/terms/`, label: nav.terms },
     { href: `/${locale}/#sample`, label: nav.sample },
   ];
@@ -45,8 +45,8 @@ export function Header({ nav, locale }: { nav: NavLabels; locale: string }) {
           </span>
         </a>
 
-        <div className="hidden items-center gap-7 lg:flex">
-          <nav className="flex items-center gap-7">
+        <div className="hidden items-center gap-5 lg:flex xl:gap-7">
+          <nav className="flex items-center gap-5 xl:gap-7">
             {links.map((link) => (
               <a
                 key={link.href}

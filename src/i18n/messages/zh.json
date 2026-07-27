@@ -1,13 +1,13 @@
 {
   "meta": {
     "title": "SOLTERRA — 扎根 Gia Lai 的越南咖啡生豆供应商",
-    "description": "Solterra 扎根越南 Gia Lai 与高原产区，稳定供应罗布斯塔、阿拉比卡、精品批次与商业级生豆。批次可核验，供应可信赖。",
+    "description": "Solterra 扎根越南 Gia Lai 与高原产区，稳定供应罗布斯塔、阿拉比卡、利比里卡与精品批次咖啡生豆。批次可核验，供应可信赖。",
     "ogAlt": "SOLTERRA 越南咖啡生豆供应商"
   },
 
   "nav": {
+    "about": "关于我们",
     "products": "产品",
-    "process": "供应流程",
     "terms": "贸易条款",
     "sample": "申请样品",
     "contact": "联系我们",
@@ -41,6 +41,63 @@
       {
         "title": "供应方负责到底",
         "body": "从批次确认、出口包装到交付协调，Solterra 以供应方身份对合作负责。"
+      }
+    ]
+  },
+
+  "aboutPage": {
+    "eyebrow": "SOLTERRA / ABOUT US",
+    "title": "把 Gia Lai 的咖啡风味带向世界",
+    "subtitle": "Solterra 生长于 Gia Lai。我们相信，越南高原的红土、阳光与成熟产季，能够孕育出浓郁、强劲、让人记住的咖啡生豆。",
+    "manifesto": "我们要带出去的，不只是咖啡生豆，而是 Gia Lai 高原土地里那种浓烈、直接、带有地方性格的咖啡风味。",
+    "storyTitle": "来自高原的热烈风味",
+    "story": [
+      "我们不是从一张贸易清单开始认识咖啡，而是从 Gia Lai 的土地、产季和本地咖啡生活开始。这里的咖啡有一种直接、浓烈、充满能量的性格，这也是 Solterra 想带给国际买家的地方风味。",
+      "Solterra 希望把本地咖啡的真实质感带向世界：不夸大产地故事，不空泛承诺，而是围绕批次、品质、包装和稳定供货，把越南高原的咖啡以更可靠的方式交到烘焙商、进口商和品牌客户手中。",
+      "我们的角色是供应方，不只是中间介绍货源。我们关注每一次询价、样品确认和合同交付，让客户看到清晰的信息、稳定的沟通和可持续合作的基础。"
+    ],
+    "regionTitle": "越南高原，咖啡之地",
+    "regionBody": "越南高原被誉为咖啡之地，不仅为越南国内市场提供高品质咖啡，也让越南咖啡走向世界。Gia Lai 省咖啡种植面积超过 106,000 公顷，其中超过 40,000 公顷咖啡正按照出口标准、4C 与 organic 方向种植，为稳定、可信赖的供应奠定基础。",
+    "regionStats": [
+      { "value": "106,000+ ha", "label": "Gia Lai 咖啡种植面积" },
+      { "value": "40,000+ ha", "label": "按出口标准、4C 与 organic 方向种植" },
+      { "value": "高原", "label": "浓郁、强劲咖啡风味来源" }
+    ],
+    "characterTitle": "高原咖啡的杯中性格",
+    "characterIntro": "高原咖啡来自疏松深厚的玄武岩红土、明显的雨季与旱季，以及适合罗布斯塔生长的海拔带。Gia Lai 位于北部高原，平均海拔约 700–800 米，形成更饱满、强劲而带有甜感的咖啡基础。",
+    "characterItems": [
+      {
+        "label": "Robusta 为主",
+        "body": "高原咖啡以 Robusta 为主，适合 500–900 米海拔生长。其咖啡因通常高于 Arabica，带来更强的提神感、厚实 body 与深沉苦感。"
+      },
+      {
+        "label": "风味轮廓",
+        "body": "典型 Robusta 呈现浓厚苦感、圆润厚实的 body、深长后味，并带有木质、黑巧克力、可可与烘焙坚果气息。"
+      },
+      {
+        "label": "Gia Lai 特征",
+        "body": "Gia Lai Robusta 常见颗粒均匀、密度扎实、缺陷率低。生豆有自然轻香，烘焙后可出现温暖木质、焦糖与巧克力调性。"
+      },
+      {
+        "label": "Fine Robusta 方向",
+        "body": "通过 organic、4C、RA 等方向的种植管理，以及 honey、natural、控制发酵等深加工方式，Gia Lai 咖啡可呈现干果、蜜感与更柔和的苦感。"
+      }
+    ],
+    "highlights": [
+      {
+        "value": "Gia Lai",
+        "label": "本地根基",
+        "body": "生长于越南重要罗布斯塔产区，理解当地原料与产季节奏。"
+      },
+      {
+        "value": "高原",
+        "label": "风味来源",
+        "body": "红土、高原气候与成熟产季形成浓郁、强劲的咖啡性格。"
+      },
+      {
+        "value": "World",
+        "label": "出口目标",
+        "body": "把地方咖啡风味，以稳定、可信赖的供应方式带向国际市场。"
       }
     ]
   },
@@ -93,42 +150,42 @@
           "packaging": "麻袋 + GrainPro 内袋"
         }
       },
-      "commercial-grade": {
-        "name": "商业级生豆",
-        "tagline": "COMMERCIAL · 稳定供货",
-        "body": "为规模化采购和稳定配方设计，强调持续供货、基础质量一致性和可信赖的交付节奏。适合大批量烘焙、代工和渠道型客户。",
-        "imageAlt": "越南商业级咖啡生豆",
+      "liberica-green": {
+        "name": "越南利比里卡生豆（咖啡蜜）",
+        "tagline": "LIBERICA · 稀有品种",
+        "body": "利比里卡在越南常被称为 ca phe mit，风味轮廓更独特，适合希望开发差异化产品、故事型单品或高辨识度拼配的买家。",
+        "imageAlt": "越南利比里卡咖啡生豆",
         "specValues": {
-          "grade": "商业级 / 合同等级",
-          "variety": "罗布斯塔为主，可混合阿拉比卡",
-          "origin": "越南核心产区",
-          "screenSize": "Screen 13–18 可选",
-          "supplyMode": "整柜 / 拼柜 / 长期合同",
-          "useCase": "OEM / 批量烘焙 / 成本型拼配"
+          "grade": "按批次确认",
+          "variety": "利比里卡",
+          "origin": "越南高原产区",
+          "screenSize": "按批次提供",
+          "supplyMode": "小批量 / 合同采购",
+          "useCase": "特色拼配 / 单品开发 / 差异化菜单"
         }
       },
-      "organic-sustainable": {
-        "name": "有机与可持续批次",
-        "tagline": "SUSTAINABLE · 高端渠道",
-        "body": "适合需要产地故事、可持续叙事或特定认证文件的客户。围绕真实批次确认认证、检测与可追溯范围，避免空泛承诺。",
-        "imageAlt": "越南可持续咖啡生豆批次",
+      "liberica-specialty": {
+        "name": "利比里卡精品小批次",
+        "tagline": "LIBERICA LOTS · 风味探索",
+        "body": "为精品烘焙商和连锁研发团队准备的小批量利比里卡。可围绕杯测、处理法、香气表现与批次故事进行样品确认。",
+        "imageAlt": "越南利比里卡精品批次",
         "specValues": {
-          "certification": "依批次确认",
-          "origin": "合作社 / 庄园批次",
+          "certification": "可追溯范围按批次确认",
+          "origin": "越南高原小批次",
           "processing": "水洗 / 蜜处理 / 日晒",
           "altitude": "按批次提供",
           "sample": "200–500g 样品评估",
           "packaging": "麻袋 + GrainPro 内袋"
         }
       },
-      "custom-sourcing": {
-        "name": "合同供应方案",
-        "tagline": "CONTRACT SUPPLY · 按需求供货",
-        "body": "客户提供目标价格、风味、月需求量、加工法、筛网和包装要求，Solterra 基于 Gia Lai 与越南高原供应基础配置批次并安排样品确认。",
-        "imageAlt": "越南咖啡生豆定制寻源服务",
+      "liberica-contract": {
+        "name": "利比里卡合同供应方案",
+        "tagline": "LIBERICA SUPPLY · 按需求配置",
+        "body": "客户提供目标风味、月需求量、处理法、筛网和包装要求，Solterra 根据真实批次供应情况配置利比里卡样品与合同供货计划。",
+        "imageAlt": "越南利比里卡合同供应",
         "specValues": {
           "serviceScope": "批次配置 / 样品 / 质量数据 / 出口协调",
-          "variety": "罗布斯塔 / 阿拉比卡 / 混合批次",
+          "variety": "利比里卡 / 拼配需求可讨论",
           "origin": "按客户目标筛选",
           "supplyMode": "按月计划 / 合同采购",
           "sample": "先样品杯测，再确认合同",
@@ -155,33 +212,6 @@
     "supplyMode": "供应方式",
     "certification": "认证",
     "serviceScope": "服务范围"
-  },
-
-  "process": {
-    "title": "供应流程",
-    "subtitle": "从采收到包装，每个环节都有据可查。",
-    "steps": [
-      {
-        "title": "采收",
-        "body": "只选择成熟度稳定的批次，记录产区、庄园与采收窗口。"
-      },
-      {
-        "title": "初加工",
-        "body": "依目标风味选择水洗、蜜处理或日晒工艺，控制发酵与清洁度。"
-      },
-      {
-        "title": "干燥",
-        "body": "分层薄铺并持续翻动，追踪水分下降曲线，避免霉味与过度发酵。"
-      },
-      {
-        "title": "分级",
-        "body": "筛网分级、水分检测、瑕疵挑拣，并进行杯测评估。"
-      },
-      {
-        "title": "包装",
-        "body": "麻袋配 GrainPro 内袋，按出口标准封装，长途运输中保持风味与水分稳定。"
-      }
-    ]
   },
 
   "terms": {
